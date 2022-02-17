@@ -1,8 +1,15 @@
+.full-width {
+  width: 100%;
+}
 
+.top-padding {
+  padding-top: 3px;
+}
 
+.margin-left mat-radio-button:not(:first-child) {
+  margin-left: 10px;
+}
 
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at https://angular.io/license
-*/
+.form-container {
+  margin: 100px;
+}
